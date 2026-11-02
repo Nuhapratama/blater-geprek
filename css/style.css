@@ -176,6 +176,7 @@ button {
 
 .menu-section {
   background: #FFFFFF;
+  justify-content: center;
 }
 
 .menu-filters {
